@@ -1,0 +1,4 @@
+﻿  picture.cpp
+D:\MyProjects\C_CPP\picture\picture_split\picture_split\picture.cpp(200,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\MyProjects\C_CPP\picture\picture_split\picture_split\picture.cpp(184,18): warning C4101: “OotfileHid”: 未引用的局部变量
+  picture_split.vcxproj -> D:\MyProjects\C_CPP\picture\picture_split\Debug\picture_split.exe
